@@ -1,2 +1,2 @@
-# MexicanoCursoIOS
-Curso IOs-Mexicano
+# Curso-iOS
+Practicas, manuales y material para el curso 
